@@ -1,0 +1,9 @@
+{
+  "voice_enabled": true,
+  "recognition_language": "en-US",
+  "speak_responses": true,
+  "name": "JARVIS",
+  "listen_keyword": "jarvis",
+  "timeout": 5,
+  "owner_name": "Sir"
+}
